@@ -1,4 +1,1 @@
-These cover more complex mechanics like renting, on-chain data, and security features used in high-level production projects.
-
-
-This restricts minting to a specific list of addresses 
+An NFT is a unique digital container. In the past, the container was empty (just a picture). Today, as a developer, you are writing code to put actual value (money, other items, rights) inside that container.
